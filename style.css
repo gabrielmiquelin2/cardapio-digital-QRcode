@@ -62,7 +62,7 @@ ul li {
 }
 
 li .detalhes{
-
+ max: width 240px; ;
 }
 
 .detalhes h3{
